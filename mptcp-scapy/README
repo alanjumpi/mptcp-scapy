@@ -1,0 +1,7 @@
+We are using a modified scapy version that support MPTCP parsing
+
+We have created a python script calling mptcp-getkey.py for 
+Proof-of-Concept (PoC) of getting hash keys from a MPTCP packet
+
+In directory dumps/ we have 2 MPTCP pcap files for made our tests
+
